@@ -11,5 +11,13 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+
+
+    }
+
+    private static void modify(String a) {
+        a = "Mayank";
+        System.out.println("in modify " + a);
     }
 }

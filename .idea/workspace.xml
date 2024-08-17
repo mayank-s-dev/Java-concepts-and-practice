@@ -1,18 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa3a9a34-e0d8-4db7-8b2b-23ff280edbfd" name="Changes" comment="" />
+    <list default="true" id="fa3a9a34-e0d8-4db7-8b2b-23ff280edbfd" name="Changes" comment="Data Abstraction">
+      <change afterPath="$PROJECT_DIR$/src/Basics/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/InterfaceReferenceDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/KindOfVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/ReferenceDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/AbstractClass/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/AbstractClass/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ConcreteClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ConcreteClass/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticMemberClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticMemberClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/PrivateStaticNestedClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/PrivateStaticNestedClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/StaticNestedClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/StaticNestedClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ObjectClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ObjectClass/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ObjectClass/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/ConstructorChaining/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/PackageA/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/PackageA/ClassAOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/PackageB/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/PrivateConstructor/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/PrivateConstructor/PrivateConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/StaticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Manager1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kGqF7oluTwkFCu8pKBeVr3bRVf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,6 +74,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DataTypes.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ObjectTest.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.ReferenceDataTypes.executor": "Run",
+    "Application.StaticExample.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -44,7 +106,20 @@
       <option name="presentableId" value="Default" />
       <updated>1722920156953</updated>
     </task>
+    <task id="LOCAL-00001" summary="Data Abstraction">
+      <option name="closed" value="true" />
+      <created>1722922056594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722922056594</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Abstraction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
