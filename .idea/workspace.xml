@@ -4,49 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa3a9a34-e0d8-4db7-8b2b-23ff280edbfd" name="Changes" comment="Data Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/Basics/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/InterfaceReferenceDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/KindOfVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/ReferenceDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/TypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/AbstractClass/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/AbstractClass/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ConcreteClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ConcreteClass/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticMemberClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticMemberClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/PrivateStaticNestedClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/PrivateStaticNestedClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/StaticNestedClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/StaticNestedClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ObjectClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ObjectClass/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ObjectClass/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/ConstructorChaining/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/PackageA/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/PackageA/ClassAOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/PackageB/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/PrivateConstructor/OtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/PrivateConstructor/PrivateConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/StaticMethods/StaticExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Manager1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Super/Person1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Vehicle.java" afterDir="false" />
+    <list default="true" id="fa3a9a34-e0d8-4db7-8b2b-23ff280edbfd" name="Changes" comment="OOPS, gc, methods, constructor, classes">
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumAbstractSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumInterfaceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumVsConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumWithCustomValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/MyEnumInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/MultiBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/ParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/UpperBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/CurrentProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/GenericClassSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/InheritanceGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/MutlipleGenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/AnonymousClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/AnonymousClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/Inheritance/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NestedClassInheritanceByOtherClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NestedClassInheritanceByOtherClass/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NestedClassInheritanceByOtherClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticLocalClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticLocalClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/POJO_Class/StudentPOJO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/AbstractClass/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/AbstractClass/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,29 +59,36 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2kGqF7oluTwkFCu8pKBeVr3bRVf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DataTypes.executor": "Run",
-    "Application.Encapsulation.executor": "Run",
-    "Application.Inheritance.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ObjectTest.executor": "Run",
-    "Application.Polymorphism.executor": "Run",
-    "Application.ReferenceDataTypes.executor": "Run",
-    "Application.StaticExample.executor": "Run",
-    "Application.TypeConversion.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/mayan/IdeaProjects/Learn Java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReferenceDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mayan/IdeaProjects/Learn Java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Classes.EnumClass" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -114,12 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722922056594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOPS, gc, methods, constructor, classes">
+      <option name="closed" value="true" />
+      <created>1723891450035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723891450035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Data Abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Abstraction" />
+    <MESSAGE value="OOPS, gc, methods, constructor, classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPS, gc, methods, constructor, classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

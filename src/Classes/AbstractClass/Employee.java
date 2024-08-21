@@ -4,7 +4,6 @@ package Classes.AbstractClass;
 public class Employee extends Person{
     @Override
     public void dummyMethod1() {
-
     }
 
     @Override
