@@ -5,38 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3a9a34-e0d8-4db7-8b2b-23ff280edbfd" name="Changes" comment="OOPS, gc, methods, constructor, classes">
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumAbstractSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumInterfaceSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumVsConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/EnumWithCustomValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/EnumClass/MyEnumInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/MultiBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/BoundedClass/UpperBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/CurrentProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/GenericClassSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/InheritanceGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/GenericClass/MutlipleGenericType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/AnonymousClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/AnonymousClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/Inheritance/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NestedClassInheritanceByOtherClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NestedClassInheritanceByOtherClass/OtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NestedClassInheritanceByOtherClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticLocalClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/NestedClass/NonStaticLocalClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/POJO_Class/StudentPOJO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ImmutableClass/ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/ECommerceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/Stripe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/DefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/DefaultMethodMultipleInheritanceIssue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/InterfaceExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/StaticMethod/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/StaticMethod/PrivateStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/DiamondProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InClass/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InClass/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InInterface/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InInterface/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InInterface/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/AbstractClass/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/AbstractClass/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
