@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3a9a34-e0d8-4db7-8b2b-23ff280edbfd" name="Changes" comment="OOPS, gc, methods, constructor, classes">
-      <change afterPath="$PROJECT_DIR$/src/Classes/ImmutableClass/ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/ECommerceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/PaymentGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/DemoExample/Stripe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/DefaultMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/DefaultMethodMultipleInheritanceIssue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/InterfaceExtend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/DefaultMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/StaticMethod/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/StaticMethod/PrivateStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/DiamondProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InClass/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InClass/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InInterface/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InInterface/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/NestedInterface/InInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Annotations/RepeatableAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Annotations/SafeVarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/FunctionalInterface/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Java8andJava9Features/FunctionalInterface/Types/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionOfConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionOfFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionOfMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,24 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReferenceDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mayan/IdeaProjects/Learn Java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.C.executor": "Run",
+    "Application.D.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ObjectTest.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.ReferenceDataTypes.executor": "Run",
+    "Application.ReflectionOfFields.executor": "Run",
+    "Application.ReflectionOfMethods.executor": "Run",
+    "Application.RepeatableAnnotation.executor": "Run",
+    "Application.StaticExample.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/mayan/IdeaProjects/Learn Java/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Classes.EnumClass" />
